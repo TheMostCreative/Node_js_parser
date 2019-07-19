@@ -1,0 +1,15 @@
+{
+  "name": "webparser",
+  "version": "1.0.0",
+  "description": "Web Parser",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Dmitriy Kolesnichenko",
+  "license": "ISC",
+  "dependencies": {
+    "osmosis": "^1.1.10",
+    "tress": "^1.1.4"
+  }
+}
