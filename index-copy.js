@@ -12,7 +12,7 @@ osmosis
             data.link = " https://www.apple.com/" + data.link; // etc.
         }
         else if (/^\//.test(data.link)){
-            data.link = " https://www.apple.coms" + data.link; // etc.;
+            data.link = " https://www.apple.com" + data.link; // etc.;
         }
         console.log(data);
         savedData.push(data); //добавляем в массив наши данные
